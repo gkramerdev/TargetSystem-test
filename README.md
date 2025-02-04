@@ -12,7 +12,7 @@ Os desafios envolvem lógica de programação e manipulação de dados, utilizan
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/desafios-target-sistemas.git
+   git clone https://github.com/gkramerdev/TargetSystem-test.gitt
    ```
 2. Abra o projeto no **Visual Studio** ou em um terminal.
 3. Execute o programa:
